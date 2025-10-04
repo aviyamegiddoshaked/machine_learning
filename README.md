@@ -1,6 +1,5 @@
 # machine_learning
 
-# machine_learning
 
 ## Playing Card Classifier
 
@@ -31,6 +30,8 @@ A PyTorch project for classifying playing cards (53 classes) using EfficientNet-
     - Use GPU if available (cuda:0)
 
 ---
+
+
 
 ## Neural Network (NumPy & PyTorch)
 
@@ -65,6 +66,8 @@ The objective is to first implement a neural network from scratch in NumPy and t
 7.  Evaluate predictions and measure accuracy on the validation set.
 
 ---
+
+
 
 ## Logistic Regression
 
