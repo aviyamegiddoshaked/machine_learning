@@ -16,11 +16,11 @@ A PyTorch project for classifying playing cards (53 classes) using EfficientNet-
 
 ### setup
 
-    You can install the dependencies using pip:
+You can install the dependencies using pip:
 
-    ```bash
-    pip install torch torchvision timm numpy pandas matplotlib pillow tqdm
-    ```
+  ```bash
+pip install torch torchvision timm numpy pandas matplotlib pillow tqdm
+ ```
 
 ### notes
 
@@ -147,6 +147,6 @@ $$
 
 ### Setup
 
-    ```bash
-    pip install numpy pandas matplotlib scikit-learn
-    ```
+ ```bash
+ pip install numpy pandas matplotlib scikit-learn
+  ```
